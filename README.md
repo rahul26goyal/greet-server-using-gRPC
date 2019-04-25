@@ -1,7 +1,7 @@
 # greet-server-using-gRPC
 A simple Greeting Server Implementation using Google RPC Framework
 
-Followed the steps given here to write from scratch: https://grpc.io/docs/quickstart/ruby.html
+
 
 ## How to test this code?
 1. Clone the repo.
@@ -17,3 +17,4 @@ Followed the steps given here to write from scratch: https://grpc.io/docs/quicks
 6. Open another tab, and execute: `ruby greeter-client.rb`
 7. You should see the output message.
 
+Reference: https://grpc.io/docs/quickstart/ruby.html
